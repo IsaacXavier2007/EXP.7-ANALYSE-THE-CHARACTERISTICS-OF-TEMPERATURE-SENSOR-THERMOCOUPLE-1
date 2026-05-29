@@ -28,14 +28,24 @@ When you click on 'Level 2' tab, you can verify the Dynamic response of the ther
 
 ## CIRCUIT dIAGRAM:
 
-<img width="280" height="364" alt="image" src="https://github.com/user-attachments/assets/8bcab162-fe8c-448a-bae1-c619c036b913" />
+<img width="1082" height="721" alt="image" src="https://github.com/user-attachments/assets/d9fa9b03-055d-4048-888b-990fec6140be" />
+<img width="1127" height="826" alt="image" src="https://github.com/user-attachments/assets/2baa55fa-6e63-4830-91d4-536414674d8f" />
+<img width="1020" height="423" alt="image" src="https://github.com/user-attachments/assets/f137ea97-9735-438d-8b68-0a8669e782f0" />
+<img width="964" height="438" alt="image" src="https://github.com/user-attachments/assets/73b45eec-dd7a-491e-bd0b-b1c20e4d8e32" />
+<img width="867" height="487" alt="image" src="https://github.com/user-attachments/assets/8ceb7be2-430d-44f7-8026-9beea524d97f" />
+
+
+
+
+
 
 ## output:
 
-Thermocouple type:
+Thermocouple type: Nickel
 
-Reference Temperature:
+Reference Temperature: 12, 200, 222
 
-Output temperature: 
+Output temperature: 108.06, 234.4, 249.18
 
 ## Result: 
+Thus, the measurement of temperature using RTD will be verified successfully.
